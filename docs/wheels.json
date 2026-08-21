@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-31T10:05:27.331899+00:00",
+  "last_updated_utc": "2026-08-18T14:27:42.099605+00:00",
   "packages": [
     {
       "id": "blocksparseattn",
@@ -241,6 +241,40 @@
             "2.13.0"
           ],
           "python_version": [
+            "3.13",
+            "3.13"
+          ],
+          "cuda_version": [
+            "13.0",
+            "13.0"
+          ],
+          "cxx11_abi": true,
+          "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/block_sparse_attn/block_sparse_attn-0.0.2.post2+d20260117.cu130torch2.13.0cxx11abiTRUE-cp313-cp313-win_amd64.whl"
+        },
+        {
+          "package_version": "0.0.2.post2",
+          "torch_version": [
+            "2.13.0",
+            "2.13.0"
+          ],
+          "python_version": [
+            "3.13",
+            "3.13"
+          ],
+          "cuda_version": [
+            "13.2",
+            "13.2"
+          ],
+          "cxx11_abi": true,
+          "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/block_sparse_attn/block_sparse_attn-0.0.2.post2+d20260117.cu132torch2.13.0cxx11abiTRUE-cp313-cp313-win_amd64.whl"
+        },
+        {
+          "package_version": "0.0.2.post2",
+          "torch_version": [
+            "2.13.0",
+            "2.13.0"
+          ],
+          "python_version": [
             "3.14",
             "3.14"
           ],
@@ -436,6 +470,40 @@
           ],
           "cxx11_abi": true,
           "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/deepspeed/deepspeed-0.19.3+d20260714.cu132torch2.12.1cxx11abiTRUE-cp314-cp314-win_amd64.whl"
+        },
+        {
+          "package_version": "0.19.3",
+          "torch_version": [
+            "2.13.0",
+            "2.13.0"
+          ],
+          "python_version": [
+            "3.13",
+            "3.13"
+          ],
+          "cuda_version": [
+            "13.0",
+            "13.0"
+          ],
+          "cxx11_abi": true,
+          "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/deepspeed/deepspeed-0.19.3+d20260714.cu130torch2.13.0cxx11abitrue-cp313-cp313-win_amd64.whl"
+        },
+        {
+          "package_version": "0.19.3",
+          "torch_version": [
+            "2.13.0",
+            "2.13.0"
+          ],
+          "python_version": [
+            "3.13",
+            "3.13"
+          ],
+          "cuda_version": [
+            "13.2",
+            "13.2"
+          ],
+          "cxx11_abi": true,
+          "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/deepspeed/deepspeed-0.19.3+d20260714.cu132torch2.13.0cxx11abitrue-cp313-cp313-win_amd64.whl"
         },
         {
           "package_version": "0.19.3",
@@ -4068,6 +4136,166 @@
         {
           "package_version": "1.0.0",
           "torch_version": [
+            "2.10.0",
+            "2.10.0"
+          ],
+          "python_version": [
+            "3.12",
+            "3.12"
+          ],
+          "cuda_version": [
+            "13.0",
+            "13.0"
+          ],
+          "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/sageattn/sageattn3-1.0.0+cu130torch2.10.0-cp312-cp312-win_amd64.whl"
+        },
+        {
+          "package_version": "1.0.0",
+          "torch_version": [
+            "2.10.0",
+            "2.10.0"
+          ],
+          "python_version": [
+            "3.12",
+            "3.12"
+          ],
+          "cuda_version": [
+            "13.1",
+            "13.1"
+          ],
+          "url": "https://github.com/munder-sa/SageAttention_win_blackwell/releases/download/v2.2.0-win/sageattn3-1.0.0+cu131torch2.10.0-cp312-cp312-win_amd64.whl"
+        },
+        {
+          "package_version": "1.0.0",
+          "torch_version": [
+            "2.10.0",
+            "2.10.0"
+          ],
+          "python_version": [
+            "3.13",
+            "3.13"
+          ],
+          "cuda_version": [
+            "13.0",
+            "13.0"
+          ],
+          "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/sageattn/sageattn3-1.0.0+cu130torch2.10.0-cp313-cp313-win_amd64.whl"
+        },
+        {
+          "package_version": "1.0.0",
+          "torch_version": [
+            "2.12.1",
+            "2.12.1"
+          ],
+          "python_version": [
+            "3.13",
+            "3.13"
+          ],
+          "cuda_version": [
+            "13.2",
+            "13.2"
+          ],
+          "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/sageattn/sageattn3-1.0.0+cu132torch2.12.1-cp313-cp313-win_amd64.whl"
+        },
+        {
+          "package_version": "1.0.0",
+          "torch_version": [
+            "2.12.1",
+            "2.12.1"
+          ],
+          "python_version": [
+            "3.14",
+            "3.14"
+          ],
+          "cuda_version": [
+            "13.0",
+            "13.0"
+          ],
+          "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/sageattn/sageattn3-1.0.0+cu130torch2.12.1-cp314-cp314-win_amd64.whl"
+        },
+        {
+          "package_version": "1.0.0",
+          "torch_version": [
+            "2.12.1",
+            "2.12.1"
+          ],
+          "python_version": [
+            "3.14",
+            "3.14"
+          ],
+          "cuda_version": [
+            "13.2",
+            "13.2"
+          ],
+          "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/sageattn/sageattn3-1.0.0+cu132torch2.12.1-cp314-cp314-win_amd64.whl"
+        },
+        {
+          "package_version": "1.0.0",
+          "torch_version": [
+            "2.13.0",
+            "2.13.0"
+          ],
+          "python_version": [
+            "3.13",
+            "3.13"
+          ],
+          "cuda_version": [
+            "13.0",
+            "13.0"
+          ],
+          "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/sageattn/sageattn3-1.0.0+cu130torch2.13.0-cp313-cp313-win_amd64.whl"
+        },
+        {
+          "package_version": "1.0.0",
+          "torch_version": [
+            "2.13.0",
+            "2.13.0"
+          ],
+          "python_version": [
+            "3.13",
+            "3.13"
+          ],
+          "cuda_version": [
+            "13.2",
+            "13.2"
+          ],
+          "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/sageattn/sageattn3-1.0.0+cu132torch2.13.0-cp313-cp313-win_amd64.whl"
+        },
+        {
+          "package_version": "1.0.0",
+          "torch_version": [
+            "2.13.0",
+            "2.13.0"
+          ],
+          "python_version": [
+            "3.14",
+            "3.14"
+          ],
+          "cuda_version": [
+            "13.0",
+            "13.0"
+          ],
+          "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/sageattn/sageattn3-1.0.0+cu130torch2.13.0-cp314-cp314-win_amd64.whl"
+        },
+        {
+          "package_version": "1.0.0",
+          "torch_version": [
+            "2.13.0",
+            "2.13.0"
+          ],
+          "python_version": [
+            "3.14",
+            "3.14"
+          ],
+          "cuda_version": [
+            "13.2",
+            "13.2"
+          ],
+          "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/sageattn/sageattn3-1.0.0+cu132torch2.13.0-cp314-cp314-win_amd64.whl"
+        },
+        {
+          "package_version": "1.0.0",
+          "torch_version": [
             "2.7.1",
             "2.7.1"
           ],
@@ -4229,6 +4457,102 @@
             "12.8"
           ],
           "url": "https://github.com/woct0rdho/SpargeAttn/releases/download/v0.1.0-windows.post1/spas_sage_attn-0.1.0+cu128torch2.8.0.post1-cp39-abi3-win_amd64.whl"
+        },
+        {
+          "package_version": "0.1.0.post3",
+          "torch_version": [
+            "2.5.1",
+            "2.5.1"
+          ],
+          "python_version": [
+            "3.9",
+            null
+          ],
+          "cuda_version": [
+            "12.4",
+            "12.4"
+          ],
+          "url": "https://github.com/woct0rdho/SpargeAttn/releases/download/v0.1.0-windows.post3/spas_sage_attn-0.1.0+cu124torch2.5.1.post3-cp39-abi3-win_amd64.whl"
+        },
+        {
+          "package_version": "0.1.0.post3",
+          "torch_version": [
+            "2.6.0",
+            "2.6.0"
+          ],
+          "python_version": [
+            "3.9",
+            null
+          ],
+          "cuda_version": [
+            "12.6",
+            "12.6"
+          ],
+          "url": "https://github.com/woct0rdho/SpargeAttn/releases/download/v0.1.0-windows.post3/spas_sage_attn-0.1.0+cu126torch2.6.0.post3-cp39-abi3-win_amd64.whl"
+        },
+        {
+          "package_version": "0.1.0.post3",
+          "torch_version": [
+            "2.7.1",
+            "2.7.1"
+          ],
+          "python_version": [
+            "3.9",
+            null
+          ],
+          "cuda_version": [
+            "12.8",
+            "12.8"
+          ],
+          "url": "https://github.com/woct0rdho/SpargeAttn/releases/download/v0.1.0-windows.post3/spas_sage_attn-0.1.0+cu128torch2.7.1.post3-cp39-abi3-win_amd64.whl"
+        },
+        {
+          "package_version": "0.1.0.post3",
+          "torch_version": [
+            "2.8.0",
+            "2.8.0"
+          ],
+          "python_version": [
+            "3.9",
+            null
+          ],
+          "cuda_version": [
+            "12.8",
+            "12.8"
+          ],
+          "url": "https://github.com/woct0rdho/SpargeAttn/releases/download/v0.1.0-windows.post3/spas_sage_attn-0.1.0+cu128torch2.8.0.post3-cp39-abi3-win_amd64.whl"
+        },
+        {
+          "package_version": "0.1.0.post4",
+          "torch_version": [
+            "2.9.0",
+            null
+          ],
+          "python_version": [
+            "3.9",
+            null
+          ],
+          "cuda_version": [
+            "12.8",
+            "12.8"
+          ],
+          "url": "https://github.com/woct0rdho/SpargeAttn/releases/download/v0.1.0-windows.post4/spas_sage_attn-0.1.0+cu128torch2.9.0andhigher.post4-cp39-abi3-win_amd64.whl"
+        },
+        {
+          "package_version": "0.1.0.post4",
+          "torch_version": [
+            "2.9.0",
+            null
+          ],
+          "python_version": [
+            "3.9",
+            null
+          ],
+          "cuda_version": [
+            "13.0",
+            "13.0"
+          ],
+          "url": "https://github.com/woct0rdho/SpargeAttn/releases/download/v0.1.0-windows.post4/spas_sage_attn-0.1.0+cu130torch2.9.0andhigher.post4-cp39-abi3-win_amd64.whl"
         }
       ]
     },
@@ -4467,6 +4791,22 @@
             "13.2"
           ],
           "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/torchaudio/torchaudio-2.11.0a0+d20260331.cu132torch2.12.1cxx11abiTRUE-cp314-cp314-win_amd64.whl"
+        },
+        {
+          "package_version": "2.11.0a0",
+          "torch_version": [
+            "2.13.0",
+            "2.13.0"
+          ],
+          "python_version": [
+            "3.13",
+            "3.13"
+          ],
+          "cuda_version": [
+            "13.0",
+            "13.0"
+          ],
+          "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/torchaudio/torchaudio-2.11.0a0+d20260331.cu130torch2.13.0cxx11abitrue-cp313-cp313-win_amd64.whl"
         },
         {
           "package_version": "2.11.0a0",
@@ -4756,6 +5096,40 @@
           ],
           "cxx11_abi": true,
           "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/causal_conv1d/causal_conv1d-1.6.2.post1+d20260509.cu132torch2.12.1cxx11abiTRUE-cp314-cp314-win_amd64.whl"
+        },
+        {
+          "package_version": "1.6.2.post1",
+          "torch_version": [
+            "2.13.0",
+            "2.13.0"
+          ],
+          "python_version": [
+            "3.13",
+            "3.13"
+          ],
+          "cuda_version": [
+            "13.0",
+            "13.0"
+          ],
+          "cxx11_abi": true,
+          "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/causal_conv1d/causal_conv1d-1.6.2.post1+d20260509.cu130torch2.13.0cxx11abiTRUE-cp313-cp313-win_amd64.whl"
+        },
+        {
+          "package_version": "1.6.2.post1",
+          "torch_version": [
+            "2.13.0",
+            "2.13.0"
+          ],
+          "python_version": [
+            "3.13",
+            "3.13"
+          ],
+          "cuda_version": [
+            "13.2",
+            "13.2"
+          ],
+          "cxx11_abi": true,
+          "url": "https://huggingface.co/Wildminder/AI-windows-whl/resolve/main/causal_conv1d/causal_conv1d-1.6.2.post1+d20260509.cu132torch2.13.0cxx11abiTRUE-cp313-cp313-win_amd64.whl"
         },
         {
           "package_version": "1.6.2.post1",
